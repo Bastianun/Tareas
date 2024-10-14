@@ -3,6 +3,7 @@ import { ContactoComponent } from './componentes/contacto/contacto.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
 import { RegistrateComponent } from './componentes/registrate/registrate.component';
 
+
 export const routes: Routes = [
     {
         path:"",
@@ -17,3 +18,6 @@ export const routes: Routes = [
         component:RegistrateComponent,
     }
 ];
+
+
+
