@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sumativa_29_Resuelta.props" />
+</Project>

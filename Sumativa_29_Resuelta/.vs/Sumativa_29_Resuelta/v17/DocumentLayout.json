@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\views\\proyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:views\\proyectoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\controllers\\proyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:controllers\\proyectoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\views\\proyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:views\\proyectoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|c:\\users\\kazuto\\downloads\\sumativa_29_resuelta\\sumativa_29_resuelta\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FB6D00-A8EF-4FC3-BD3A-361C19966FFB}|Sumativa_29_Resuelta.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Proyectoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Proyectoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:16:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:01:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T20:26:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Proyectoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Proyectoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proyectoes\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T16:51:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T17:01:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T16:50:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProyectoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Controllers\\ProyectoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProyectoesController.cs",
+              "ToolTip": "C:\\Users\\Kazuto\\Downloads\\Sumativa_29_Resuelta\\Sumativa_29_Resuelta\\Controllers\\ProyectoesController.cs",
+              "RelativeToolTip": "Controllers\\ProyectoesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:47:14.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
